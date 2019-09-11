@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
-
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+mvnw*
 # Log file
 *.log
 
