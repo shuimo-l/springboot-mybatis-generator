@@ -6,6 +6,7 @@
 *.ipr
 .mvn
 mvnw*
+target
 # Log file
 *.log
 
